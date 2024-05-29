@@ -84,9 +84,9 @@ It is an utility program for retrieving various kinds of information related to 
 
 ```exit```
 
-![image](https://github.com/udayk01/Android-Security/assets/52235763/2e3bb6c9-9f06-436a-94f1-7c164e53a72b)
+![image](https://github.com/Nifalnasar/Android-Security/assets/141356053/8b1b27da-cae3-4ff2-82b8-fe119abf4836)
 
-![image](https://github.com/udayk01/Android-Security/assets/52235763/b242a76d-d782-4b72-9ac4-fef9550fbd78)
+![image](https://github.com/Nifalnasar/Android-Security/assets/141356053/804f3c25-3e1f-498a-9ec6-5331075e6994)
 
 ```adb pull /data/app/~~8UAxlYP3QSnP8_ixuFq8cA==/com.example.exapp-8kV48cJw7jnpMcuRekg67Q==/base.apk```
 
